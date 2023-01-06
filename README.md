@@ -2,6 +2,10 @@
 
 Demo: https://hype.skrzypniak.pl/
 
+Login: admin
+
+Password: admin
+
 ## Project launch
 1. Download this repository,
 2. Create a database and import the file `database.sql`,
