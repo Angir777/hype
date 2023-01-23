@@ -1,4 +1,4 @@
-# Hype - SECURE distributor login page
+# Hype - SECURE distributor login page #
 
 Demo: https://hype.skrzypniak.pl/
 
