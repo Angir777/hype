@@ -1,6 +1,4 @@
-# Hype - SECURE distributor login page #
-
-Demo: https://hype.skrzypniak.pl/
+# Secure login page in vanilla PHP #
 
 Login: admin
 
